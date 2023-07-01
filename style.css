@@ -1,0 +1,16 @@
+.bg-img-1{
+background-image: url(./coding.jpg);
+}
+.bg-img-2{
+background-image: url(./coding2.jpg);
+}
+.bg-img-3{
+background-image: url(./coding3.bjpg.jpg);
+}
+.carousel-image{
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
